@@ -1,3 +1,3 @@
-module syreclabs.com/go/faker
+module github.com/3dsinteractive/faker
 
-go 1.11
+go 1.12
